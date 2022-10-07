@@ -5,9 +5,9 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>CVS URL Project</name>
 	<description>Create a maven project of your own and show the URL is running and opening the page</description>
+	
+	
 	<!-- pom means project object model -->
-
-
 
 
 	<dependencies>

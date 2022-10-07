@@ -15,7 +15,7 @@ public class BaseClass {
 	@BeforeMethod
 	public void setUp() {
 	
-		System.setProperty("webdriver.chrome.driver", "/Users/motiur/eclipse-workspace/com.cvs/driver/chromedriver");
+		System.setProperty("webdriver.chrome.driver", "/Users/motiur/eclipse-workspace/HomeWork20/driver/chromedriver");
 		//System.setProperty("webdriver.chrome.driver","‪‪/src/chromedriver‬‬");
 
 		
